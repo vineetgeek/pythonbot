@@ -5,5 +5,5 @@ time.sleep(10)
 for i in range(500):
     pyautogui.write("hello")
     pyautogui.press("enter")
-    pyautogui.write("kya haal hai bc")
+    pyautogui.write("kya haal hai bro")
     pyautogui.press("enter")
